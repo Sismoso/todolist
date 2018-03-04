@@ -1,0 +1,14 @@
+C:\Users\defaultuser0.DESKTOP-7MPAVPR\source\repos\cardGames\cardGames\bin\Debug\cardGames.exe.config
+C:\Users\defaultuser0.DESKTOP-7MPAVPR\source\repos\cardGames\cardGames\bin\Debug\cardGames.exe
+C:\Users\defaultuser0.DESKTOP-7MPAVPR\source\repos\cardGames\cardGames\bin\Debug\cardGames.pdb
+C:\Users\defaultuser0.DESKTOP-7MPAVPR\source\repos\cardGames\cardGames\obj\Debug\cardGamesClient.csprojResolveAssemblyReference.cache
+C:\Users\defaultuser0.DESKTOP-7MPAVPR\source\repos\cardGames\cardGames\obj\Debug\cardGamesClient.csproj.CoreCompileInputs.cache
+C:\Users\defaultuser0.DESKTOP-7MPAVPR\source\repos\cardGames\cardGames\obj\Debug\cardGames.exe
+C:\Users\defaultuser0.DESKTOP-7MPAVPR\source\repos\cardGames\cardGames\obj\Debug\cardGames.pdb
+C:\Users\Dwarven PC\source\repos\cardGames\cardGames\bin\Debug\cardGames.exe.config
+C:\Users\Dwarven PC\source\repos\cardGames\cardGames\bin\Debug\cardGames.exe
+C:\Users\Dwarven PC\source\repos\cardGames\cardGames\bin\Debug\cardGames.pdb
+C:\Users\Dwarven PC\source\repos\cardGames\cardGames\obj\Debug\cardGamesClient.csprojResolveAssemblyReference.cache
+C:\Users\Dwarven PC\source\repos\cardGames\cardGames\obj\Debug\cardGamesClient.csproj.CoreCompileInputs.cache
+C:\Users\Dwarven PC\source\repos\cardGames\cardGames\obj\Debug\cardGames.exe
+C:\Users\Dwarven PC\source\repos\cardGames\cardGames\obj\Debug\cardGames.pdb
